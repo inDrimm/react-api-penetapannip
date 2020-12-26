@@ -1,0 +1,88 @@
+{
+"data" :[
+    {
+        "NoSU" : "198609262015051001",
+        "namaKegiatan" : "Batas Usia Pensiun",
+		"tglPengusulan" : "02/08/2020",
+		"tglPenetapan" : "02/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+    {
+        "NoSU" : "198609262015051002",
+        "namaKegiatan" : "Batas Usia Pensiun",
+		"tglPengusulan" : "03/08/2020",
+		"tglPenetapan" : "03/08/2020",
+        "statusUsulan" : "Diterima"
+    },
+    {
+        "NoSU" : "198609262015051003",
+        "namaKegiatan" : "Kebijakan Pemerintah",
+        "tglPengusulan" : "01/08/2020",
+		"tglPenetapan" : "01/08/2020",
+        "statusUsulan" : "Diterima"
+    },
+    {
+        "NoSU" : "198609262015051004",
+        "namaKegiatan" : "Kebijakan Pemerintah",
+		"tglPengusulan" : "01/08/2020",
+		"tglPenetapan" : "01/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+    {
+        "NoSU" : "198609262015051005",
+        "namaKegiatan" : "Meninggal",
+		"tglPengusulan" : "01/08/2020",
+		"tglPenetapan" : "01/08/2020",
+        "statusUsulan" : "Diterima"
+    },
+    {
+        "NoSU" : "198609262015051011",
+        "namaKegiatan" : "Meninggal",
+		"tglPengusulan" : "02/08/2020",
+		"tglPenetapan" : "02/08/2020",
+        "statusUsulan" : "Diterima"
+    },
+	 {
+        "NoSU" : "198609262015051012",
+        "namaKegiatan" : "Kebijakan Pemerintah",
+		"tglPengusulan" : "03/08/2020",
+		"tglPenetapan" : "03/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+	 {
+        "NoSU" : "198609262015051013",
+        "namaKegiatan" : "Batas Usia Pensiun",
+		"tglPengusulan" : "05/08/2020",
+		"tglPenetapan" : "05/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+	 {
+        "NoSU" : "198609262015051014",
+        "namaKegiatan" : "Batas Usia Pensiun",
+		"tglPengusulan" : "05/08/2020",
+		"tglPenetapan" : "05/08/2020",
+        "statusUsulan" : "Diterima"
+    },
+	 {
+        "NoSU" : "198609262015051015",
+        "namaKegiatan" : "Kebijakan Pemerintah",
+		"tglPengusulan" : "05/08/2020",
+		"tglPenetapan" : "05/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+	 {
+        "NoSU" : "198609262015051016",
+        "namaKegiatan" : "Batas Usia Pensiun",
+		"tglPengusulan" : "02/08/2020",
+		"tglPenetapan" : "02/08/2020",
+        "statusUsulan" : "Diterima"
+    },
+	 {
+        "NoSU" : "198609262015051017",
+        "namaKegiatan" : "Kebijakan Pemerintah",
+		"tglPengusulan" : "02/08/2020",
+		"tglPenetapan" : "02/08/2020",
+        "statusUsulan" : "Kedudukan Hukum"
+    }
+	]
+}
